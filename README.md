@@ -528,5 +528,4 @@ SaleCondition: Condition of sale
        Partial  Home was not completed when last assessed (associated with New Homes)
 
 
-
-working on readme 
+https://storage.googleapis.com/kaggle-competitions-data/kaggle-v2/5407/868283/bundle/archive.zip?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1608613932&Signature=loLB0HhBmK%2BLtR0LPhUMYHegJqyHWDAluMEhB9QjdkYE1kxrweIG3rIbiicGqJ2DiauWWMN7a09b9p1BEOfz1Qs0U5ksgepWDIzG%2FCMllHU7l5nthQL9IaDqTHcqaw6Z3sQp1RMs2pYXmsB%2FjUwDbj2fD7ahpVY668a6Va%2F6d%2FPbmuAdbp5s4zDj9ia9USbJglgUGuFYxXaPrriRGH92eXdydOgDVWiSvHScuZECq5bjf%2BvfcGlG5hNPPGMPonmLiHtBncwLT%2FaXckhUfX0GRJOf1kZdi22eoqiYVFKRswHCgovNbA2PuzDuRRSwNc8zickFwLDEhl4v5%2B7L0fneFw%3D%3D&response-content-disposition=attachment%3B+filename%3Dhouse-prices-advanced-regression-techniques.zip
